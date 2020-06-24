@@ -1,13 +1,10 @@
-package com.indiagold.security.andrognito.pinlockview;
+package com.indiagold.security.pinlock.pinlockview;
 
 import android.graphics.Rect;
 import android.view.View;
 
 import androidx.recyclerview.widget.RecyclerView;
 
-/**
- * Created by aritraroy on 31/05/16.
- */
 public class ItemSpaceDecoration extends RecyclerView.ItemDecoration {
 
     private final int mHorizontalSpaceWidth;

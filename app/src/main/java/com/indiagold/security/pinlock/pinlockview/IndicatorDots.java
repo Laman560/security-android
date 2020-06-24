@@ -1,4 +1,4 @@
-package com.indiagold.security.andrognito.pinlockview;
+package com.indiagold.security.pinlock.pinlockview;
 
 import android.animation.LayoutTransition;
 import android.content.Context;
@@ -12,12 +12,6 @@ import com.indiagold.security.R;
 import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;
 
-/**
- * It represents a set of indicator dots which when attached with {@link PinLockView}
- * can be used to indicate the current length of the input
- * <p>
- * Created by aritraroy on 01/06/16.
- */
 public class IndicatorDots extends LinearLayout {
 
     @IntDef({IndicatorType.FIXED, IndicatorType.FILL, IndicatorType.FILL_WITH_ANIMATION})

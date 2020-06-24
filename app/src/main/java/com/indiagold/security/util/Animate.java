@@ -6,9 +6,7 @@ import android.os.Build;
 
 import androidx.appcompat.widget.AppCompatImageView;
 
-/**
- * Created by Arcane on 7/23/2017.
- */
+
 
 public class Animate {
 

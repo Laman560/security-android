@@ -27,9 +27,9 @@ import androidx.appcompat.widget.AppCompatImageView;
 import androidx.core.app.ActivityCompat;
 
 import com.indiagold.security.R;
-import com.indiagold.security.andrognito.pinlockview.IndicatorDots;
-import com.indiagold.security.andrognito.pinlockview.PinLockListener;
-import com.indiagold.security.andrognito.pinlockview.PinLockView;
+import com.indiagold.security.pinlock.pinlockview.IndicatorDots;
+import com.indiagold.security.pinlock.pinlockview.PinLockListener;
+import com.indiagold.security.pinlock.pinlockview.PinLockView;
 import com.indiagold.security.fingerprint.FingerPrintListener;
 import com.indiagold.security.fingerprint.FingerprintHandler;
 import com.indiagold.security.util.Animate;

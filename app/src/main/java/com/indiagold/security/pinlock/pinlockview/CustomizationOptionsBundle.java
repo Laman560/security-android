@@ -1,13 +1,8 @@
-package com.indiagold.security.andrognito.pinlockview;
+package com.indiagold.security.pinlock.pinlockview;
 
 import android.graphics.drawable.Drawable;
 
-/**
- * The customization options for the buttons in {@link PinLockView}
- * passed to the {@link PinLockAdapter} to decorate the individual views
- *
- * Created by aritraroy on 01/06/16.
- */
+
 public class CustomizationOptionsBundle {
 
     private int textColor;

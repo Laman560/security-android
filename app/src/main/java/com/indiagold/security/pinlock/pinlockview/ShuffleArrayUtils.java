@@ -1,10 +1,7 @@
-package com.indiagold.security.andrognito.pinlockview;
+package com.indiagold.security.pinlock.pinlockview;
 
 import java.util.Random;
 
-/**
- * Created by aritraroy on 10/03/17.
- */
 
 public class ShuffleArrayUtils {
 

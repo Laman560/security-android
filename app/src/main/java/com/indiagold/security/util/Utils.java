@@ -3,9 +3,7 @@ package com.indiagold.security.util;
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 
-/**
- * Created by pc on 07/16/2017.
- */
+
 
 public class Utils {
     // utility function

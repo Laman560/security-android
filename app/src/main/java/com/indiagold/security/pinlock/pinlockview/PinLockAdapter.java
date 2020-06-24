@@ -1,4 +1,4 @@
-package com.indiagold.security.andrognito.pinlockview;
+package com.indiagold.security.pinlock.pinlockview;
 
 import android.graphics.PorterDuff;
 import android.graphics.Typeface;
@@ -19,9 +19,7 @@ import androidx.recyclerview.widget.RecyclerView;
 import com.indiagold.security.R;
 
 
-/**
- * Created by aritraroy on 31/05/16.
- */
+
 public class PinLockAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder> {
 
     private static final int VIEW_TYPE_NUMBER = 0;

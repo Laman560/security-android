@@ -1,8 +1,5 @@
 package com.indiagold.security.fingerprint;
 
-/**
- * Created by Arcane on 7/11/2017.
- */
 
 import android.Manifest;
 import android.annotation.TargetApi;

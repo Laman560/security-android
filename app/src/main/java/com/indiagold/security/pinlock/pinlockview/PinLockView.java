@@ -1,4 +1,4 @@
-package com.indiagold.security.andrognito.pinlockview;
+package com.indiagold.security.pinlock.pinlockview;
 
 import android.content.Context;
 import android.content.res.TypedArray;

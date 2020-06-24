@@ -1,4 +1,4 @@
-package com.indiagold.security.andrognito.pinlockview;
+package com.indiagold.security.pinlock.pinlockview;
 
 import android.content.Context;
 import android.graphics.drawable.Drawable;
@@ -8,9 +8,7 @@ import androidx.annotation.DimenRes;
 import androidx.annotation.DrawableRes;
 import androidx.core.content.ContextCompat;
 
-/**
- * Created by aritraroy on 10/06/16.
- */
+
 public class ResourceUtils {
 
     private ResourceUtils() {
